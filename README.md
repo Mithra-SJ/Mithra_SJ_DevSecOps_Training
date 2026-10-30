@@ -1,1 +1,1 @@
-I am Mithra SJ from Team Image
+I am Mithra SJ
