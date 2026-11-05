@@ -1,0 +1,16 @@
+﻿ProductID,ProductName,Category,UnitPrice
+201, Wireless Mouse ,Accessories,799
+202,Mechanical Keyboard,Accessories,2499
+203,USB-C Hub,Accessories,1899
+204,Laptop Stand,Accessories,1299
+205,27-inch Monitor,Monitors,14999
+206,24-inch Monitor,Monitors,9999
+207,Business Laptop,Laptops,58999
+208,Student Laptop,Laptops,42999
+209,Gaming Laptop,Laptops,89999
+210,Bluetooth Headphones,Audio,3499
+211,Noise Cancelling Headphones,Audio,8999
+212,Webcam,Accessories,2299
+213,Portable SSD,Storage,5999
+214,External Hard Drive,Storage,4499
+215,USB Flash Drive,Storage,699
